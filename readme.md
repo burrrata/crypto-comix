@@ -29,7 +29,7 @@ More details below. Get me on Discord or Twitter (@thekerp) if this sounds like 
 
 Crypto Comics is a small local comic book shop. 
 
-![](https://i.imgur.com/gC6wTa6.jpg)
+![Crypto Comics!](https://i.imgur.com/gC6wTa6.jpg)
 
 In the late 90s, early 2000's comic books were still big business. 
 
@@ -65,4 +65,5 @@ Still Kerp
 
 on Github: https://github.com/JurisProject/crypto-comics/
 
-![https://www.youtube.com/watch?v=qeDuq_9arrg](https://i.imgur.com/yqse3P4.jpg)
+[![Brody!](https://i.imgur.com/yqse3P4.jpg)](https://https://www.youtube.com/watch?v=qeDuq_9arrg)
+
