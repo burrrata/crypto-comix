@@ -63,7 +63,13 @@ Excelsior!
 
 Still Kerp
 
+<br>
+
 on Github: https://github.com/JurisProject/crypto-comics/
+
+<br>
+
+That's it. Cue the music:
 
 [![Brody!](https://i.imgur.com/yqse3P4.jpg)](https://www.youtube.com/watch?v=qeDuq_9arrg)
 
