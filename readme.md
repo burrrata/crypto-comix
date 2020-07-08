@@ -1,10 +1,10 @@
-#Welcome!
+## Welcome!
 
 I'm Adam. Co-founder of the Juris Project, a member of LexDAO, Raid Guild and a lifelong comic nerd.
 
 This hackathon project is based on a real life use case I suspect exists in cities across globe.
 
-#Crypto Comics!!
+# Crypto Comics!!
 
 Crypto comics is a small local comic book shop. In the late 90s, early 2000's comic books were still big business. As digital has taken hold, what were once city or nation-wide chains of comic shops have splintered, but the local comic shop is alive and well. There is still a strong consumer base for old school books, indie books, and collectibles. But they like their local shops, where they also congregate to play games, and enjoy the community.
 
