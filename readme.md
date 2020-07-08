@@ -1,8 +1,17 @@
-## Welcome!
+---
+tags: HackaThon
+---
+
+# Crypto Comics Hackathon
+
+Hey!
 
 I'm Adam. Co-founder of the Juris Project, a member of LexDAO, Raid Guild and a lifelong comic nerd.
 
-This hackathon project is based on a real life use case I suspect exists in cities across globe.
+This hackathon project is based on a real life use case I suspect exists in cities across globe, but building it out will also tackle a lot of the challenges that DAOs will face as we push toward mass adoption.
+
+![](https://i.imgur.com/aG625BZ.jpg)
+
 
 # Crypto Comics!!
 
