@@ -4,15 +4,17 @@ tags: Hackathon
 
 # Crypto Comics Hackathon
 
+![](https://i.imgur.com/aG625BZ.jpg)
+
 ## Welcome 👋
 
 Hey!
 
 I'm Kerp. Co-founder of the Juris Project, a member of LexDAO and Raid Guild, and a lifelong comic nerd.
 
-I have a my local shop, and I'm friends with the owner/manager. If this works, maybe we can get her to DAO up the shop!
-
 This hackathon project is based on a real life use case I suspect exists in cities across globe, but building it out will also tackle a lot of the challenges that DAOs will face as we push toward mass adoption.
+
+I have a local comic book shop where I'm friends with the owner/manager. If this works, maybe we can get her to DAO up the shop!
 
 Also, think of all the delicious memes!
 
@@ -21,15 +23,13 @@ More details below. Get me on Discord or Twitter (@thekerp) is this sounds like 
 
 🖖 Kerp
 
-![](https://i.imgur.com/aG625BZ.jpg)
+<br>
 
-
-# Crypto Comics!!
+## Crypto Comic Shop !!
 
 Crypto Comics is a small local comic book shop. 
 
 ![](https://i.imgur.com/gC6wTa6.jpg)
-
 
 In the late 90s, early 2000's comic books were still big business. 
 
@@ -41,25 +41,28 @@ Here is my challenge to the Hack for Freedom community:
 
 Can we DAO this up to save Crypto Comics?
 
-Some questions:
+### Some questions:
+
 - Can we introduce community ownership of the Comic Shop itself?
-    - Can we chare profits?
-    - What other benefits can we build in?
-- Can the pledge process provide working capital enough to run a shop like this?
-- Can we automate all of the paperwork?
-- Where else can we get weird with it?
+    - Can we share profits? (Yeah, but we'll have to be careful on the legal front.)
+    - What other benefits can we build in? (Rage-quitting!)
+- Can the pledge process provide working capital enough to run a shop like this? (What's the minimal amount of capital required to get started?)
+- Can we automate all of the paperwork? (Let's try!)
+- Where else can we get weird with it? (Pooling funds to purchase/create limited edition comics?)
 
-And most importantly:
+### And most importantly:
+
 - Can we do all of this without needing to explain Web3 to a single person who doesn't want to know?
-    - All dApps are in need of a "wallet-less" user path, let's hack on it!
+    - All dApps are in need of a "wallet-less" user path (syncs in to the DAO Hack Month bounties - Abridged, Portis, Formatic, etc). Let's hack on it!
 
-That's what I've got so far. Happy to jam on other takes.
+Been hacking a bit here: https://whimsical.com/6JvwoFjUMat7KZqNLpJura
+
+Annnd that's what I've got so far. Happy to jam on other takes.
 
 Excelsior!
 
 Still Kerp
 
-![](https://i.imgur.com/yqse3P4.jpg)
+Here's the start on Github: https://github.com/JurisProject/crypto-comics/
 
-
-
+![https://www.youtube.com/watch?v=qeDuq_9arrg](https://i.imgur.com/yqse3P4.jpg)
