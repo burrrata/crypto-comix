@@ -2,7 +2,7 @@
 tags: Hackathon
 ---
 
-# Crypto Comics Hackathon
+# Crypto Comics Hackathon Pitch
 
 ![](https://i.imgur.com/aG625BZ.jpg)
 
@@ -18,7 +18,7 @@ I have a local comic book shop where I'm friends with the owner/manager. If this
 
 Also, think of all the delicious memes!
 
-More details below. Get me on Discord or Twitter (@thekerp) is this sounds like fun.
+More details below. Get me on Discord or Twitter (@thekerp) if this sounds like fun.
 
 
 🖖 Kerp
