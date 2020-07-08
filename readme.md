@@ -65,5 +65,5 @@ Still Kerp
 
 on Github: https://github.com/JurisProject/crypto-comics/
 
-[![Brody!](https://i.imgur.com/yqse3P4.jpg)](https://https://www.youtube.com/watch?v=qeDuq_9arrg)
+[![Brody!](https://i.imgur.com/yqse3P4.jpg)](https://www.youtube.com/watch?v=qeDuq_9arrg)
 
