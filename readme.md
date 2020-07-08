@@ -8,7 +8,7 @@ tags: Hackathon
 
 Hey!
 
-I'm Adam. Co-founder of the Juris Project, a member of LexDAO and Raid Guild, and a lifelong comic nerd.
+I'm Kerp. Co-founder of the Juris Project, a member of LexDAO and Raid Guild, and a lifelong comic nerd.
 
 I have a my local shop, and I'm friends with the owner/manager. If this works, maybe we can get her to DAO up the shop!
 
@@ -19,7 +19,7 @@ Also, think of all the delicious memes!
 More details below. Get me on Discord or Twitter (@thekerp) is this sounds like fun.
 
 
-🖖 Adam
+🖖 Kerp
 
 ![](https://i.imgur.com/aG625BZ.jpg)
 
@@ -57,7 +57,7 @@ That's what I've got so far. Happy to jam on other takes.
 
 Excelsior!
 
-Still Adam
+Still Kerp
 
 ![](https://i.imgur.com/yqse3P4.jpg)
 
