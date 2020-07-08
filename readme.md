@@ -1,14 +1,23 @@
 ---
-tags: HackaThon
+tags: Hackathon
 ---
 
 # Crypto Comics Hackathon
 
+## Welcome 👋
+
 Hey!
 
-I'm Adam. Co-founder of the Juris Project, a member of LexDAO, Raid Guild and a lifelong comic nerd.
+I'm Adam. Co-founder of the Juris Project, a member of LexDAO and Raid Guild, and a lifelong comic nerd.
+
+I have a my local shop, and I'm friends with the owner/manager. If this works, maybe we can get her to DAO up the shop!
 
 This hackathon project is based on a real life use case I suspect exists in cities across globe, but building it out will also tackle a lot of the challenges that DAOs will face as we push toward mass adoption.
+
+Also, think of all the delicious memes!
+
+More details below. Get me on Discord or Twitter (@thekerp) is this sounds like fun.
+
 
 🖖 Adam
 
@@ -17,11 +26,20 @@ This hackathon project is based on a real life use case I suspect exists in citi
 
 # Crypto Comics!!
 
-Crypto comics is a small local comic book shop. In the late 90s, early 2000's comic books were still big business. As digital has taken hold, what were once city or nation-wide chains of comic shops have splintered, but the local comic shop is alive and well. There is still a strong consumer base for old school books, indie books, and collectibles. But they like their local shops, where they also congregate to play games, and enjoy the community.
+Crypto Comics is a small local comic book shop. 
 
-Hit especially hard by COVID, a lot of local stores like this are now finding themselves struggling to make rent as their infrastrucure is build around local, and in-person community.
+![](https://i.imgur.com/gC6wTa6.jpg)
 
-Here is my challenge to the Hack for Freedom community: can we DAO this up to save Crypto Comics?
+
+In the late 90s, early 2000's comic books were still big business. 
+
+As digital has taken hold, what were once city or nation-wide chains of comic shops have splintered, but the local comic shop is alive and well. There is still a strong consumer base for old school books, indie books, and collectibles. Their communities are driven by local shops, where they also congregate to buy books, play games, and spend time with their friends.
+
+Hit especially hard by COVID, Crypto Comics is struggling to make rent without their usual foot traffic, and there are a few hundred community members super bummed that the place might close.
+
+Here is my challenge to the Hack for Freedom community: 
+
+Can we DAO this up to save Crypto Comics?
 
 Some questions:
 - Can we introduce community ownership of the Comic Shop itself?
@@ -36,5 +54,12 @@ And most importantly:
     - All dApps are in need of a "wallet-less" user path, let's hack on it!
 
 That's what I've got so far. Happy to jam on other takes.
+
+Excelsior!
+
+Still Adam
+
+![](https://i.imgur.com/yqse3P4.jpg)
+
 
 
