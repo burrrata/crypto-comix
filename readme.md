@@ -63,6 +63,6 @@ Excelsior!
 
 Still Kerp
 
-Here's the start on Github: https://github.com/JurisProject/crypto-comics/
+on Github: https://github.com/JurisProject/crypto-comics/
 
 ![https://www.youtube.com/watch?v=qeDuq_9arrg](https://i.imgur.com/yqse3P4.jpg)
