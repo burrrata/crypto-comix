@@ -10,6 +10,8 @@ I'm Adam. Co-founder of the Juris Project, a member of LexDAO, Raid Guild and a 
 
 This hackathon project is based on a real life use case I suspect exists in cities across globe, but building it out will also tackle a lot of the challenges that DAOs will face as we push toward mass adoption.
 
+🖖 Adam
+
 ![](https://i.imgur.com/aG625BZ.jpg)
 
 
@@ -34,7 +36,5 @@ And most importantly:
     - All dApps are in need of a "wallet-less" user path, let's hack on it!
 
 That's what I've got so far. Happy to jam on other takes.
-
-~ Adam
 
 
