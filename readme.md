@@ -4,7 +4,8 @@ tags: Hackathon
 
 # Crypto Comix Hackathon Pitch
 
-![](https://i.imgur.com/aG625BZ.jpg)
+![](https://i.imgur.com/kQ8v4jS.jpg)
+
 
 ## Welcome 👋
 
