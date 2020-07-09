@@ -28,7 +28,7 @@ More details below. Get me on Discord or Twitter (@thekerp) if this sounds like 
 
 ## Crypto Comic Shop !!
 
-Crypto Comics is a small local comic book shop. 
+Crypto Comix is a small local comic book shop. 
 
 ![Crypto Comics!](https://i.imgur.com/gC6wTa6.jpg)
 
@@ -36,11 +36,11 @@ In the late 90s, early 2000's comic books were still big business.
 
 As digital has taken hold, what were once city or nation-wide chains of comic shops have splintered, but the local comic shop is alive and well. There is still a strong consumer base for old school books, indie books, and collectibles. Their communities are driven by local shops, where they also congregate to buy books, play games, and spend time with their friends.
 
-Hit especially hard by COVID, Crypto Comics is struggling to make rent without their usual foot traffic, and there are a few hundred community members super bummed that the place might close.
+Hit especially hard by COVID, Crypto Comix is struggling to make rent without their usual foot traffic, and there are a few hundred community members super bummed that the place might close.
 
 Here is my challenge to the Hack for Freedom community: 
 
-Can we DAO this up to save Crypto Comics?
+Can we DAO this up to save Crypto Comix?
 
 ### Some questions:
 
