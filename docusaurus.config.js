@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  title: 'Juris',
+  title: 'Crypto Comix!',
   tagline: 'Justice. For All.',
   url: 'https://nifty-heisenberg-a6b091.netlify.app',
   baseUrl: '/',
@@ -10,21 +10,18 @@ module.exports = {
   projectName: 'Juris', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "Juris",
+      title: "Crypto Comix",
       logo: {
-        alt: 'Juris Logo',
-        src: 'img/Juris-Logo-Badge.png',
+        alt: 'Crypto Comix!',
+        //src: 'img/Juris-Logo-Badge.png',
       },
       links: [
         {
           to: 'docs',activeBasePath: 'docs/', label: 'Docs', position: 'right',
         },
         {to: 'blog', label: 'Blog', position: 'right'},
-        {to: 'team', label: 'Team', position: 'right'},
-        {to: 'build', label: 'Builder', position: 'right'},
-        {to: 'help', label: 'Get Legal Help', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/JurisProject/crypto-comix',
           label: 'GitHub',
           position: 'right',
         },
