@@ -2,12 +2,12 @@ const path = require("path");
 
 module.exports = {
   title: 'Crypto Comix!',
-  tagline: 'Justice. For All.',
-  url: 'https://nifty-heisenberg-a6b091.netlify.app',
+  tagline: 'The First DAO Owned Local Comic Shop',
+  url: 'priceless-jennings-036d13.netlify.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Juris, PBC', // Usually your GitHub org/user name.
-  projectName: 'Juris', // Usually your repo name.
+  organizationName: 'CryptoComix', // Usually your GitHub org/user name.
+  projectName: 'Crypto Comix', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Crypto Comix",
