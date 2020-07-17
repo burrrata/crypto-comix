@@ -1,0 +1,63 @@
+@import './bootstrap';
+
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/**
+ * You can override the default Infima variables here.
+ * All vars located in node_modules/infima/styles/common/variables.css
+ */
+
+:root {
+    --ifm-color-primary: #{$primary};
+    --ifm-color-primary-dark: #{$primary-dark};
+    --ifm-color-primary-darker: #{$primary-darker};
+    --ifm-color-primary-darkest: #{darken($primary, 1%)};
+    --ifm-color-primary-light: #{$primary-light};
+    --ifm-color-primary-lighter: #{$primary-lighter};
+    --ifm-color-primary-lightest: #{lighten($primary, 15%)};
+    --ifm-code-font-size: 95%;
+
+    --ifm-background-color: #{$white};
+    --ifm-font-family-base: $font-family-sans-serif;
+
+  }
+
+  .hero--image{
+    max-width: 85%;
+  }
+
+  .hero__subtitle{
+    font-weight: 200;
+  }
+
+  .hero__title{
+
+  }
+
+  .hero--dark {
+    --ifm-hero-background-color: var(--ifm-color-primary);
+    --ifm-hero-text-color: var(--ifm-color-white);
+      color: $white;
+      background-image: $primary-gradient;
+  }
+
+  .docusaurus-highlight-code-line {
+    background-color: rgb(72, 77, 91);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
+  }
+
+  body {
+    background-color: var(--ifm-background-color);
+    color: var(--ifm-font-color-base);
+  }
+
+  .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: $headings-font-weight;
+  }
