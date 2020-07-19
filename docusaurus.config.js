@@ -3,11 +3,11 @@ const path = require("path");
 module.exports = {
   title: 'Crypto Comix!',
   tagline: 'The First DAO Owned Local Comic Shop',
-  url: 'priceless-jennings-036d13.netlify.app',
+  url: 'https://burrrata.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'CryptoComix', // Usually your GitHub org/user name.
-  projectName: 'Crypto Comix', // Usually your repo name.
+  organizationName: 'burrrata', // Usually your GitHub org/user name.
+  projectName: 'crypto-comix', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "Crypto Comix",
