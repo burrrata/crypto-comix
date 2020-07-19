@@ -33,7 +33,7 @@ const features = [
     imageUrl: 'img/wow.png',
     description: (
       <Fragment>
-        Along with deploying the DAO on the blockchain, you'll also be able to deploy a cooperative in Wyoming. This follows all of the Wyoming specifications for a cooperative and we even have partners with legal teams that can help you deploy one IRL!
+        Along with deploying the DAO on the blockchain, you'll also be able to deploy a cooperative in Wyoming.
       </Fragment>
     ),
   },
