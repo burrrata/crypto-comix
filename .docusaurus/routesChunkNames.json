@@ -1,0 +1,71 @@
+{
+  "/": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99"
+  },
+  "/__docusaurus/debug": {
+    "component": "component---theme-debugd-45-c28"
+  },
+  "/blog": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "items": [
+      {
+        "content": "content---blogdcd-095"
+      }
+    ],
+    "metadata": "metadata---blogbbb-5f9"
+  },
+  "/blog/crypto-comix": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-open-sourceac-6-da3"
+  },
+  "/help/": {
+    "component": "component---site-src-pages-help-index-js-78-e-dbe"
+  },
+  "/help/DebtLetter/": {
+    "component": "component---site-src-pages-help-debt-letter-index-js-623-a0b"
+  },
+  "/help/DepositLetter/": {
+    "component": "component---site-src-pages-help-deposit-letter-index-jsf-4-a-b29"
+  },
+  "/page": {
+    "component": "component---site-src-pages-page-jsbaf-7e1"
+  },
+  "/pages/subpage": {
+    "component": "component---site-src-pages-pages-subpage-jsc-8-c-c8c"
+  },
+  "/team": {
+    "component": "component---site-src-pages-team-js-859-9b3"
+  },
+  "/docs": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-20-a-426"
+  },
+  "/docs/": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-b-2-f-393"
+  },
+  "/docs/Mission": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mission-575-b73"
+  },
+  "/docs/doc2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-2-df-3-eaa"
+  },
+  "/docs/doc3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-doc-3616-40c"
+  },
+  "/docs/manifesto": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-manifesto-5-af-08b"
+  },
+  "/docs/mdx": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-mdxce-3-7d1"
+  },
+  "/docs/styles": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-styles-90-b-767"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "Mission",
+  "isDocsHomePage": false,
+  "title": "Juris Mission",
+  "source": "@site/docs/Mission.md",
+  "permalink": "/docs/Mission",
+  "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/Mission.md",
+  "sidebar_label": "Mission"
+}

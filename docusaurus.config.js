@@ -13,11 +13,11 @@ module.exports = {
       title: "Crypto Comix",
       logo: {
         alt: 'Crypto Comix!',
-        //src: 'img/Juris-Logo-Badge.png',
+        src: 'img/logo.png',
       },
       links: [
         {
-          to: 'docs',activeBasePath: 'docs/', label: 'Docs', position: 'right',
+          to: 'docs',activeBasePath: 'docs/', label: 'Cooperative Structure', position: 'right',
         },
         {to: 'blog', label: 'Blog', position: 'right'},
         {
@@ -34,25 +34,17 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Cooperative Structure',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+            }
           ],
         },
         {
           title: 'Community',
           items: [
             {
-              label: 'Discord',
-              href: '#',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/getjuris',
+              label: 'GitHub',
+              href: 'https://github.com/JurisProject/crypto-comix',
             },
           ],
         },
@@ -63,14 +55,9 @@ module.exports = {
               label: 'Blog',
               to: 'blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/jurisproject',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Juris, PBC. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -83,13 +70,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/JurisProject/crypto-comix/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/JurisProject/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/scss/index.scss'),

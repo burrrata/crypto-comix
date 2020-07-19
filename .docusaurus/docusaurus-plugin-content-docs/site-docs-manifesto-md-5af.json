@@ -1,0 +1,10 @@
+{
+  "id": "manifesto",
+  "isDocsHomePage": false,
+  "title": "Juris Manifesto",
+  "description": "Juris Manifesto",
+  "source": "@site/docs/Manifesto.md",
+  "permalink": "/docs/manifesto",
+  "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/Manifesto.md",
+  "sidebar_label": "Manifesto"
+}

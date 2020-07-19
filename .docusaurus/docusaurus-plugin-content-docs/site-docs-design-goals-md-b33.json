@@ -1,0 +1,15 @@
+{
+  "id": "design-goals",
+  "isDocsHomePage": false,
+  "title": "Design Goals",
+  "description": "This is a link to another document. This is a link to an external page.",
+  "source": "@site/docs/design-goals.md",
+  "permalink": "/docs/design-goals",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/design-goals.md",
+  "sidebar_label": "Design Goals",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Crypto Comix",
+    "permalink": "/docs/overview"
+  }
+}

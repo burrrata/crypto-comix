@@ -11,32 +11,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: "Easy to Use",
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: "Cool Memes!",
+    imageUrl: 'img/pow.png',
     description: (
       <Fragment>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Did you see the memes? They're really cool. You're welcome.
       </Fragment>
     ),
   },
   {
-    title: "Focus on What Matters",
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: "A Cooperative DAO",
+    imageUrl: 'img/ugh.png',
     description: (
       <Fragment>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Cooperatives and DAOs have a lot in common. So much so that we were able to fuse them into one. Behold, the CAO: a Cooperative Autonomous Organization!
       </Fragment>
     ),
   },
   {
-    title: "Powered by React",
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: "Probably compliant in Wyoming",
+    imageUrl: 'img/wow.png',
     description: (
       <Fragment>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Along with deploying the DAO on the blockchain, you'll also be able to deploy a cooperative in Wyoming. This follows all of the Wyoming specifications for a cooperative and we even have partners with legal teams that can help you deploy one IRL!
       </Fragment>
     ),
   },
@@ -71,8 +68,8 @@ function Home() {
               <img className="hero--image" src="/img/Hero-Image.png" />
             </Col>
             <Col xs="6" className="p-2">
-              <h1 className="pt-5 pb-2 pl-2 hero__title">We're a local comic shop. DAO-style.</h1>
-              <p className="pt-2 pb-2 pl-2 hero__subtitle">Crypto Comix is the worlds first local comic shop run by a DAO and owned by the members.</p>
+              <h1 className="pt-5 pb-2 pl-2 hero__title">A comic shop cooperative.</h1>
+              <p className="pt-2 pb-2 pl-2 hero__subtitle">Crypto Comix is the worlds first DAOified comic cooperative run by and for members.</p>
               <div className="pt-2">
                 <div className={styles.buttons}>
                   <Button
@@ -84,7 +81,7 @@ function Home() {
                       styles.getStarted,
                     )}
                     to={useBaseUrl('docs/')}>
-                    Join Juris
+                    Learn about CryptoComix
                 </Button>
                   <Button
                     tag={Link}
@@ -94,8 +91,8 @@ function Home() {
                       `ml-2`,
                       styles.getStarted,
                     )}
-                    to={useBaseUrl('help/')}>
-                    Find Legal Help
+                    to={"https://discord.gg/259a376"}>
+                    Help us build!
                 </Button>
                 </div>
               </div>

@@ -1,0 +1,15 @@
+{
+  "id": "overview",
+  "isDocsHomePage": false,
+  "title": "Crypto Comix",
+  "description": "Crypto Comix",
+  "source": "@site/docs/overview.md",
+  "permalink": "/docs/overview",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/overview.md",
+  "sidebar_label": "Overview",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Design Goals",
+    "permalink": "/docs/design-goals"
+  }
+}
