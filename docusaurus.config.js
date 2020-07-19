@@ -4,7 +4,7 @@ module.exports = {
   title: 'Crypto Comix!',
   tagline: 'The First DAO Owned Local Comic Shop',
   url: 'https://burrrata.github.io',
-  baseUrl: '/',
+  baseUrl: '/crypto-comix/',
   favicon: 'img/favicon.ico',
   organizationName: 'burrrata', // Usually your GitHub org/user name.
   projectName: 'crypto-comix', // Usually your repo name.

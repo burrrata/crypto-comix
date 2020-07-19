@@ -1,6 +1,6 @@
 export default {
   "plugins": [
-    "/home/testingtesting123/Documents/Dev/crypto-comix/node_modules/docusaurus-plugin-sass"
+    "/home/testingtesting123/Documents/Dev/burrrata/crypto-comix/node_modules/docusaurus-plugin-sass"
   ],
   "themes": [],
   "customFields": {},
@@ -65,18 +65,18 @@ export default {
   },
   "title": "Crypto Comix!",
   "tagline": "The First DAO Owned Local Comic Shop",
-  "url": "priceless-jennings-036d13.netlify.app",
-  "baseUrl": "/",
+  "url": "https://burrrata.github.io",
+  "baseUrl": "/crypto-comix/",
   "favicon": "img/favicon.ico",
-  "organizationName": "CryptoComix",
-  "projectName": "Crypto Comix",
+  "organizationName": "burrrata",
+  "projectName": "crypto-comix",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
           "homePageId": "doc1",
-          "sidebarPath": "/home/testingtesting123/Documents/Dev/crypto-comix/sidebars.js",
+          "sidebarPath": "/home/testingtesting123/Documents/Dev/burrrata/crypto-comix/sidebars.js",
           "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/"
         },
         "blog": {
@@ -84,7 +84,7 @@ export default {
           "editUrl": "https://github.com/JurisProject/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/testingtesting123/Documents/Dev/crypto-comix/src/scss/index.scss"
+          "customCss": "/home/testingtesting123/Documents/Dev/burrrata/crypto-comix/src/scss/index.scss"
         }
       }
     ]

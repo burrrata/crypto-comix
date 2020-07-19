@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{149:function(e){e.exports=JSON.parse('{"docsSidebars":{"someSidebar":[{"collapsed":true,"type":"category","label":"Docusaurus","items":[{"type":"link","label":"Overview","href":"/crypto-comix/docs/"}]}]},"permalinkToSidebar":{"/crypto-comix/docs/":"someSidebar"}}')}}]);

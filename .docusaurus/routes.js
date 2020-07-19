@@ -5,109 +5,103 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   
 {
-  path: '/',
-  component: ComponentCreator('/'),
+  path: '/crypto-comix/',
+  component: ComponentCreator('/crypto-comix/'),
   exact: true,
   
 },
 {
-  path: '/__docusaurus/debug',
-  component: ComponentCreator('/__docusaurus/debug'),
+  path: '/crypto-comix/blog',
+  component: ComponentCreator('/crypto-comix/blog'),
   exact: true,
   
 },
 {
-  path: '/blog',
-  component: ComponentCreator('/blog'),
+  path: '/crypto-comix/blog/crypto-comix',
+  component: ComponentCreator('/crypto-comix/blog/crypto-comix'),
   exact: true,
   
 },
 {
-  path: '/blog/crypto-comix',
-  component: ComponentCreator('/blog/crypto-comix'),
+  path: '/crypto-comix/help/',
+  component: ComponentCreator('/crypto-comix/help/'),
   exact: true,
   
 },
 {
-  path: '/help/',
-  component: ComponentCreator('/help/'),
+  path: '/crypto-comix/help/DebtLetter/',
+  component: ComponentCreator('/crypto-comix/help/DebtLetter/'),
   exact: true,
   
 },
 {
-  path: '/help/DebtLetter/',
-  component: ComponentCreator('/help/DebtLetter/'),
+  path: '/crypto-comix/help/DepositLetter/',
+  component: ComponentCreator('/crypto-comix/help/DepositLetter/'),
   exact: true,
   
 },
 {
-  path: '/help/DepositLetter/',
-  component: ComponentCreator('/help/DepositLetter/'),
+  path: '/crypto-comix/page',
+  component: ComponentCreator('/crypto-comix/page'),
   exact: true,
   
 },
 {
-  path: '/page',
-  component: ComponentCreator('/page'),
+  path: '/crypto-comix/pages/subpage',
+  component: ComponentCreator('/crypto-comix/pages/subpage'),
   exact: true,
   
 },
 {
-  path: '/pages/subpage',
-  component: ComponentCreator('/pages/subpage'),
+  path: '/crypto-comix/team',
+  component: ComponentCreator('/crypto-comix/team'),
   exact: true,
   
 },
 {
-  path: '/team',
-  component: ComponentCreator('/team'),
-  exact: true,
-  
-},
-{
-  path: '/docs',
-  component: ComponentCreator('/docs'),
+  path: '/crypto-comix/docs',
+  component: ComponentCreator('/crypto-comix/docs'),
   
   routes: [
 {
-  path: '/docs/',
-  component: ComponentCreator('/docs/'),
+  path: '/crypto-comix/docs/',
+  component: ComponentCreator('/crypto-comix/docs/'),
   exact: true,
   
 },
 {
-  path: '/docs/Mission',
-  component: ComponentCreator('/docs/Mission'),
+  path: '/crypto-comix/docs/Mission',
+  component: ComponentCreator('/crypto-comix/docs/Mission'),
   exact: true,
   
 },
 {
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2'),
+  path: '/crypto-comix/docs/doc2',
+  component: ComponentCreator('/crypto-comix/docs/doc2'),
   exact: true,
   
 },
 {
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3'),
+  path: '/crypto-comix/docs/doc3',
+  component: ComponentCreator('/crypto-comix/docs/doc3'),
   exact: true,
   
 },
 {
-  path: '/docs/manifesto',
-  component: ComponentCreator('/docs/manifesto'),
+  path: '/crypto-comix/docs/manifesto',
+  component: ComponentCreator('/crypto-comix/docs/manifesto'),
   exact: true,
   
 },
 {
-  path: '/docs/mdx',
-  component: ComponentCreator('/docs/mdx'),
+  path: '/crypto-comix/docs/mdx',
+  component: ComponentCreator('/crypto-comix/docs/mdx'),
   exact: true,
   
 },
 {
-  path: '/docs/styles',
-  component: ComponentCreator('/docs/styles'),
+  path: '/crypto-comix/docs/styles',
+  component: ComponentCreator('/crypto-comix/docs/styles'),
   exact: true,
   
 }],

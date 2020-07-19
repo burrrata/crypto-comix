@@ -4,7 +4,7 @@
   "title": "Juris Manifesto",
   "description": "Juris Manifesto",
   "source": "@site/docs/Manifesto.md",
-  "permalink": "/docs/manifesto",
+  "permalink": "/crypto-comix/docs/manifesto",
   "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/Manifesto.md",
   "sidebar_label": "Manifesto"
 }

@@ -65,7 +65,7 @@ function Home() {
         <Container>
           <Row>
             <Col xs="6" className="p-2">
-              <img className="hero--image" src="/img/Hero-Image.png" />
+              <img className="hero--image" src={useBaseUrl("/img/Hero-Image.png")} />
             </Col>
             <Col xs="6" className="p-2">
               <h1 className="pt-5 pb-2 pl-2 hero__title">A comic shop cooperative.</h1>

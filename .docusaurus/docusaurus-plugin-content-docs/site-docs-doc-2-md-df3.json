@@ -4,6 +4,6 @@
   "title": "Document Number 2",
   "description": "This is a link to another document. This is a link to an external page.",
   "source": "@site/docs/doc2.md",
-  "permalink": "/docs/doc2",
+  "permalink": "/crypto-comix/docs/doc2",
   "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/doc2.md"
 }

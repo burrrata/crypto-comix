@@ -4,7 +4,7 @@
   "title": "Manifesto",
   "description": "You can write content using GitHub-flavored Markdown syntax.",
   "source": "@site/docs/styles.md",
-  "permalink": "/docs/styles",
+  "permalink": "/crypto-comix/docs/styles",
   "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/styles.md",
   "sidebar_label": "Manifesto"
 }

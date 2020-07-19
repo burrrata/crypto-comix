@@ -4,7 +4,7 @@
   "title": "Crypto Comix",
   "description": "Crypto Comix",
   "source": "@site/docs/doc1.md",
-  "permalink": "/docs/",
+  "permalink": "/crypto-comix/docs/",
   "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/doc1.md",
   "sidebar_label": "Overview",
   "sidebar": "someSidebar"
