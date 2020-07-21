@@ -56,16 +56,21 @@ If members want to create votes that do not allocate capital they can do so by s
 
 ## DAO Design TL;DR:
 
-Aragon Membership template with a `MBR` token.
+![CryptoComix CAO Diagram](/static/img/cryptocomixxx-diagram.png)
 
-Add a non-transferable `TOKEN` token that has magnitude. Then add a vault with redemptions that's tied to the `TOKEN`.
+- `MBR` => Crypto Comix Cooperative (`CCC`) token representing membership.
+- `TOKEN` => `KAPOW` token representing patronage.
 
-`MBR` votes are the root authority in the cooperative. This includes, but is not limited to:
+**`CCC` votes are the root authority in the cooperative. This includes, but is not limited to:**
 
-- Minting/burning of `MBR` tokens.
-- Minting/burning of `TOKEN` tokens.
-- Transfers of tokens from the main DAO vault to secondary funding mechanisms (to do work or reward `TOKEN` contributors).
+- Minting/burning of `CCC` tokens.
+- Minting/burning of `KAPOW` tokens.
+- Transfers of tokens from the main DAO vault to secondary funding mechanisms (to do work or reward `KAPOW` contributors).
 
-> Note: while we could set this up as two separate DAOs (Membership and Moloch), giving `MBR` tokens control over `TOKEN` minting/burning ensures that a concentration of power in the `TOKEN` DAO won't skew incentives/governance for the entire cooperative (esp when it comes to member rewards).
+## Nuts and bolts
 
-![CryptoComix CAO Diagram](../static/img/cryptocomixxx-diagram.png)
+- Aragon Membership template with `CCC` as the membership token.
+- Token-request to offer DAI in exchange for membership.
+- A non-transferable `KAPOW` token that has magnitude as well as a vault with redemptions that's tied to it.
+
+> Note: while we could set this up as two separate DAOs (Membership and Moloch), giving `CCC` tokens control over `KAPOW` minting/burning ensures that a concentration of power in the `KAPOW` tokens doesn't skew incentives/governance for the entire cooperative (esp when it comes to member rewards).
