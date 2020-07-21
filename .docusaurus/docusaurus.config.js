@@ -15,17 +15,17 @@ export default {
         {
           "to": "docs",
           "activeBasePath": "docs/",
-          "label": "Docs",
+          "label": "📜 Docs",
           "position": "right"
         },
         {
           "href": "https://rinkeby.aragon.org/#/cryptocomixxx/",
-          "label": "DAO",
+          "label": "🐄 CAO",
           "position": "right"
         },
         {
           "href": "https://github.com/JurisProject/crypto-comix",
-          "label": "GitHub",
+          "label": "💻 GitHub",
           "position": "right"
         }
       ]
@@ -37,15 +37,15 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Overview",
+              "label": "🔭 Overview",
               "to": "docs/"
             },
             {
-              "label": "Cooperative Structure",
+              "label": "🗺️ Cooperative Structure",
               "to": "docs/"
             },
             {
-              "label": "Deployment Instructions",
+              "label": "🚀 Deployment Instructions",
               "to": "docs/"
             }
           ]
@@ -54,11 +54,11 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Chat",
+              "label": "💬 Chat",
               "href": "https://discord.gg/259a376"
             },
             {
-              "label": "GitHub",
+              "label": "💻 Source Code",
               "href": "https://github.com/burrrata/crypto-comix"
             }
           ]
@@ -67,11 +67,11 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
+              "label": "📰 Blog",
               "to": "blog"
             },
             {
-              "label": "Twitter",
+              "label": "🦜 Twitter",
               "href": "https://twitter.com/"
             }
           ]
