@@ -227,9 +227,9 @@
     "4": {
       "js": [
         {
-          "file": "4b91c96a.d6e4b98f.js",
-          "hash": "dcde71715aa71e760d41",
-          "publicPath": "/crypto-comix/4b91c96a.d6e4b98f.js"
+          "file": "4b91c96a.24b6cdf0.js",
+          "hash": "d1f75d655cc02938206d",
+          "publicPath": "/crypto-comix/4b91c96a.24b6cdf0.js"
         }
       ]
     },
@@ -254,9 +254,9 @@
     "7": {
       "js": [
         {
-          "file": "616665f6.edf0e7ad.js",
-          "hash": "e3a9407e0e7346f0a82b",
-          "publicPath": "/crypto-comix/616665f6.edf0e7ad.js"
+          "file": "616665f6.6044571c.js",
+          "hash": "f72315220a22213ebc2c",
+          "publicPath": "/crypto-comix/616665f6.6044571c.js"
         }
       ]
     },
@@ -311,9 +311,9 @@
     "11": {
       "js": [
         {
-          "file": "8cd8c8dd.8013d8d1.js",
-          "hash": "cf45c54a12ffd935b0cc",
-          "publicPath": "/crypto-comix/8cd8c8dd.8013d8d1.js"
+          "file": "8cd8c8dd.865f585e.js",
+          "hash": "5dc0f45550be21954383",
+          "publicPath": "/crypto-comix/8cd8c8dd.865f585e.js"
         }
       ]
     },
@@ -381,9 +381,9 @@
     "18": {
       "js": [
         {
-          "file": "c1130eb1.586b1830.js",
-          "hash": "5ea9112f15038eb64a25",
-          "publicPath": "/crypto-comix/c1130eb1.586b1830.js"
+          "file": "c1130eb1.0ee15364.js",
+          "hash": "a29a9312305a09e9023c",
+          "publicPath": "/crypto-comix/c1130eb1.0ee15364.js"
         }
       ]
     },
@@ -442,9 +442,9 @@
     "24": {
       "js": [
         {
-          "file": "df361e2b.30cd2503.js",
-          "hash": "79b4d9316f47204d7d5c",
-          "publicPath": "/crypto-comix/df361e2b.30cd2503.js"
+          "file": "df361e2b.7a7590ea.js",
+          "hash": "c9b4eca7f9e265b990f9",
+          "publicPath": "/crypto-comix/df361e2b.7a7590ea.js"
         }
       ]
     },
@@ -483,9 +483,9 @@
     "27": {
       "js": [
         {
-          "file": "runtime~main.680fe90b.js",
-          "hash": "af8f8a0c8a8753c7a5e4",
-          "publicPath": "/crypto-comix/runtime~main.680fe90b.js"
+          "file": "runtime~main.ad1f0a47.js",
+          "hash": "42a56e33100e62e7025a",
+          "publicPath": "/crypto-comix/runtime~main.ad1f0a47.js"
         }
       ]
     },

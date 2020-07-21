@@ -67,3 +67,5 @@ Add a non-transferable `TOKEN` token that has magnitude. Then add a vault with r
 - Transfers of tokens from the main DAO vault to secondary funding mechanisms (to do work or reward `TOKEN` contributors).
 
 > Note: while we could set this up as two separate DAOs (Membership and Moloch), giving `MBR` tokens control over `TOKEN` minting/burning ensures that a concentration of power in the `TOKEN` DAO won't skew incentives/governance for the entire cooperative (esp when it comes to member rewards).
+
+![CryptoComix CAO Diagram](../static/img/cryptocomixxx-diagram.png)
