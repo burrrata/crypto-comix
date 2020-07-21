@@ -10,6 +10,8 @@ sidebar_label: CAO Demo
 
 [A Rinkeby DAO for the CryptoComix cooperative](https://rinkeby.aragon.org/#/cryptocomixxx/)!
 
-> Note: the token names were changed from those outlined in [CAO Outline](doc3.md).
-> - `MBR` => `CCC`
-> - `TOKEN` => `KAPOW`
+- Aragon Membership template with `CCC` as the membership token.
+- Token-request to offer DAI in exchange for membership.
+- A non-transferable `KAPOW` token that has magnitude as well as a vault with redemptions that's tied to it.
+
+> Note: while we could set this up as two separate DAOs (Membership and Moloch), giving `CCC` tokens control over `KAPOW` minting/burning ensures that a concentration of power in the `KAPOW` tokens doesn't skew incentives/governance for the entire cooperative (esp when it comes to member rewards).
