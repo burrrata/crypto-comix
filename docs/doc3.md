@@ -56,7 +56,7 @@ If members want to create votes that do not allocate capital they can do so by s
 
 ## DAO Design TL;DR:
 
-![CryptoComix CAO Diagram](/static/img/cryptocomixxx-diagram.png)
+![CryptoComix CAO Diagram](assets/cryptocomixxx-diagram.png)
 
 - `MBR` => Crypto Comix Cooperative (`CCC`) token representing membership.
 - `TOKEN` => `KAPOW` token representing patronage.
