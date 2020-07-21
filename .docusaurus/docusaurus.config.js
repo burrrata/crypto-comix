@@ -42,7 +42,7 @@ export default {
             },
             {
               "label": "🗺️ Cooperative Structure",
-              "to": "docs/"
+              "to": "docs/doc3"
             },
             {
               "label": "🚀 Deployment Instructions",

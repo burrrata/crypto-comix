@@ -46,7 +46,7 @@ module.exports = {
             },
             {
               label: '🗺️ Cooperative Structure',
-              to: 'docs/',
+              to: 'docs/doc3',
             },
             {
               label: '🚀 Deployment Instructions',
