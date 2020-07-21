@@ -5,5 +5,5 @@
   "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
   "source": "@site/docs/mdx.md",
   "permalink": "/crypto-comix/docs/mdx",
-  "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/mdx.md"
+  "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/mdx.md"
 }

@@ -15,12 +15,12 @@ export default {
         {
           "to": "docs",
           "activeBasePath": "docs/",
-          "label": "Cooperative Structure",
+          "label": "Docs",
           "position": "right"
         },
         {
-          "to": "blog",
-          "label": "Blog",
+          "href": "https://rinkeby.aragon.org/#/cryptocomixxx/",
+          "label": "DAO",
           "position": "right"
         },
         {
@@ -37,7 +37,15 @@ export default {
           "title": "Docs",
           "items": [
             {
+              "label": "Overview",
+              "to": "docs/"
+            },
+            {
               "label": "Cooperative Structure",
+              "to": "docs/"
+            },
+            {
+              "label": "Deployment Instructions",
               "to": "docs/"
             }
           ]
@@ -46,8 +54,12 @@ export default {
           "title": "Community",
           "items": [
             {
+              "label": "Chat",
+              "href": "https://discord.gg/259a376"
+            },
+            {
               "label": "GitHub",
-              "href": "https://github.com/JurisProject/crypto-comix"
+              "href": "https://github.com/burrrata/crypto-comix"
             }
           ]
         },
@@ -57,6 +69,10 @@ export default {
             {
               "label": "Blog",
               "to": "blog"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/"
             }
           ]
         }
@@ -64,7 +80,7 @@ export default {
     }
   },
   "title": "Crypto Comix!",
-  "tagline": "The First DAO Owned Local Comic Shop",
+  "tagline": "A community owned and operated comic shop",
   "url": "https://burrrata.github.io",
   "baseUrl": "/crypto-comix/",
   "favicon": "img/favicon.ico",
@@ -77,11 +93,11 @@ export default {
         "docs": {
           "homePageId": "doc1",
           "sidebarPath": "/home/testingtesting123/Documents/Dev/burrrata/crypto-comix/sidebars.js",
-          "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/"
+          "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/JurisProject/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/burrrata/docusaurus/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/home/testingtesting123/Documents/Dev/burrrata/crypto-comix/src/scss/index.scss"

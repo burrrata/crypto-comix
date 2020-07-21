@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   title: 'Crypto Comix!',
-  tagline: 'The First DAO Owned Local Comic Shop',
+  tagline: 'A community owned and operated comic shop',
   url: 'https://burrrata.github.io',
   baseUrl: '/crypto-comix/',
   favicon: 'img/favicon.ico',
@@ -17,9 +17,16 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs',activeBasePath: 'docs/', label: 'Cooperative Structure', position: 'right',
+          to: 'docs',
+          activeBasePath: 'docs/',
+          label: 'Docs',
+          position: 'right'
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        {
+          href: 'https://rinkeby.aragon.org/#/cryptocomixxx/',
+          label: 'DAO',
+          position: 'right',
+        },
         {
           href: 'https://github.com/JurisProject/crypto-comix',
           label: 'GitHub',
@@ -34,17 +41,29 @@ module.exports = {
           title: 'Docs',
           items: [
             {
+              label: 'Overview',
+              to: 'docs/',
+            },
+            {
               label: 'Cooperative Structure',
               to: 'docs/',
-            }
+            },
+            {
+              label: 'Deployment Instructions',
+              to: 'docs/',
+            },
           ],
         },
         {
           title: 'Community',
           items: [
             {
+              label: 'Chat',
+              href: 'https://discord.gg/259a376',
+            },
+            {
               label: 'GitHub',
-              href: 'https://github.com/JurisProject/crypto-comix',
+              href: 'https://github.com/burrrata/crypto-comix',
             },
           ],
         },
@@ -54,6 +73,10 @@ module.exports = {
             {
               label: 'Blog',
               to: 'blog',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/',
             },
           ],
         },
@@ -70,13 +93,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JurisProject/crypto-comix/edit/master/website/',
+            'https://github.com/burrrata/crypto-comix/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/JurisProject/docusaurus/edit/master/website/blog/',
+            'https://github.com/burrrata/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/scss/index.scss'),

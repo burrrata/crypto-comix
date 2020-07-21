@@ -1,11 +1,15 @@
 {
   "id": "doc1",
   "isDocsHomePage": true,
-  "title": "Crypto Comix",
+  "title": "Overview",
   "description": "Crypto Comix",
   "source": "@site/docs/doc1.md",
   "permalink": "/crypto-comix/docs/",
-  "editUrl": "https://github.com/JurisProject/crypto-comix/edit/master/website/docs/doc1.md",
+  "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/doc1.md",
   "sidebar_label": "Overview",
-  "sidebar": "someSidebar"
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Design Goals",
+    "permalink": "/crypto-comix/docs/doc2"
+  }
 }

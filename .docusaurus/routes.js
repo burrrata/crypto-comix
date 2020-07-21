@@ -11,6 +11,12 @@ export default [
   
 },
 {
+  path: '/crypto-comix/__docusaurus/debug',
+  component: ComponentCreator('/crypto-comix/__docusaurus/debug'),
+  exact: true,
+  
+},
+{
   path: '/crypto-comix/blog',
   component: ComponentCreator('/crypto-comix/blog'),
   exact: true,
@@ -84,6 +90,18 @@ export default [
 {
   path: '/crypto-comix/docs/doc3',
   component: ComponentCreator('/crypto-comix/docs/doc3'),
+  exact: true,
+  
+},
+{
+  path: '/crypto-comix/docs/doc4',
+  component: ComponentCreator('/crypto-comix/docs/doc4'),
+  exact: true,
+  
+},
+{
+  path: '/crypto-comix/docs/doc5',
+  component: ComponentCreator('/crypto-comix/docs/doc5'),
   exact: true,
   
 },

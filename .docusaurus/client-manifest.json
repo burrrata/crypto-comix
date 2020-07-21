@@ -362,9 +362,9 @@
     "17": {
       "js": [
         {
-          "file": "c4f5d8e4.77e4f878.js",
-          "hash": "a338d4045c7c055c5056",
-          "publicPath": "/crypto-comix/c4f5d8e4.77e4f878.js"
+          "file": "c4f5d8e4.885dfa81.js",
+          "hash": "e6197dd593d2a6c5604e",
+          "publicPath": "/crypto-comix/c4f5d8e4.885dfa81.js"
         }
       ]
     },
@@ -455,9 +455,9 @@
     "25": {
       "js": [
         {
-          "file": "runtime~main.140a4ad8.js",
-          "hash": "156df350a17001c310da",
-          "publicPath": "/crypto-comix/runtime~main.140a4ad8.js"
+          "file": "runtime~main.4c76499f.js",
+          "hash": "8af83d404d7cdf635b55",
+          "publicPath": "/crypto-comix/runtime~main.4c76499f.js"
         }
       ]
     },

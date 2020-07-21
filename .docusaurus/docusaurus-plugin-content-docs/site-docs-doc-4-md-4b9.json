@@ -1,0 +1,19 @@
+{
+  "id": "doc4",
+  "isDocsHomePage": false,
+  "title": "DAO Demo",
+  "description": "Crypto Zo",
+  "source": "@site/docs/doc4.md",
+  "permalink": "/crypto-comix/docs/doc4",
+  "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/doc4.md",
+  "sidebar_label": "DAO Demo",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "DAO Outline",
+    "permalink": "/crypto-comix/docs/doc3"
+  },
+  "next": {
+    "title": "Open Questions",
+    "permalink": "/crypto-comix/docs/doc5"
+  }
+}
