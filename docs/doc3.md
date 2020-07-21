@@ -1,7 +1,7 @@
 ---
 id: doc3
-title: DAO Outline
-sidebar_label: DAO Outline
+title: CAO Outline
+sidebar_label: CAO Outline
 ---
 
 ![Crypto Thor Challenge](https://i.imgur.com/c9o0SJv.jpg)
@@ -9,6 +9,8 @@ sidebar_label: DAO Outline
 ## Tokens
 
 Cooperatives are typically structured where each member has a vote, and votes do not have magnitude. CryptoComix, however, also wants to reward contributors based on their time, effort, and patronage to the shop. This means that we need two tokens! One for co-op membership and one for rewards.
+
+CryptoComix, however, is no ordinary cooperative. CryptoComix is a cooperative autonomous organization (CAO). It marries legal contracts with blockchain code to create a Wyoming non-profit cooperative encoded and run as a decentralized autonomous organization. Much excite!
 
 ### Membership
 

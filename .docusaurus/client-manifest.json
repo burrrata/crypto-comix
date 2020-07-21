@@ -468,15 +468,15 @@
       "css": [
         {
           "file": "main.a8bb441e.css",
-          "hash": "29c019e6f2bee20ec646",
+          "hash": "0af94386999f41038076",
           "publicPath": "/crypto-comix/main.a8bb441e.css"
         }
       ],
       "js": [
         {
-          "file": "main.3a05442f.js",
-          "hash": "29c019e6f2bee20ec646",
-          "publicPath": "/crypto-comix/main.3a05442f.js"
+          "file": "main.64ba838e.js",
+          "hash": "0af94386999f41038076",
+          "publicPath": "/crypto-comix/main.64ba838e.js"
         }
       ]
     },

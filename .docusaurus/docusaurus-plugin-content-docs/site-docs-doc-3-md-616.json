@@ -1,12 +1,12 @@
 {
   "id": "doc3",
   "isDocsHomePage": false,
-  "title": "DAO Outline",
+  "title": "CAO Outline",
   "description": "Crypto Thor Challenge",
   "source": "@site/docs/doc3.md",
   "permalink": "/crypto-comix/docs/doc3",
   "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/doc3.md",
-  "sidebar_label": "DAO Outline",
+  "sidebar_label": "CAO Outline",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Design Goals",
