@@ -11,12 +11,6 @@ export default [
   
 },
 {
-  path: '/crypto-comix/__docusaurus/debug',
-  component: ComponentCreator('/crypto-comix/__docusaurus/debug'),
-  exact: true,
-  
-},
-{
   path: '/crypto-comix/blog',
   component: ComponentCreator('/crypto-comix/blog'),
   exact: true,

@@ -1,0 +1,45 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "text",
+     "name": "question1",
+     "title": "What is the name of your cooperative/DAO?",
+     "isRequired": true,
+     "placeHolder": "Crypto Comix"
+    },
+    {
+     "type": "text",
+     "name": "question2",
+     "title": "What is the purpose of your cooperative/DAO?",
+     "description": "Please make the statement clear and concise, with no capitalization or punctuation.",
+     "isRequired": true,
+     "placeHolder": "create and support a member owned comic book club"
+    },
+    {
+     "type": "text",
+     "name": "question4",
+     "title": "What is the Ethereum address of your DAO?",
+     "description": "Not the URL where you interact with it, but the actual Ethereum address.",
+     "isRequired": true,
+     "placeHolder": "0xa365A8429FceFdbE1E684dDdDA3531b6e8d96e75"
+    },
+    {
+     "type": "text",
+     "name": "question5",
+     "title": "What is the name of your DAO's token?",
+     "description": "The ticker symbol of the token.",
+     "isRequired": true,
+     "placeHolder": "LDM"
+    },
+    {
+     "type": "html",
+     "name": "question3"
+    }
+   ],
+   "title": "Create a cooperative!"
+  }
+ ]
+}

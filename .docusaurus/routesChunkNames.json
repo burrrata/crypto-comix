@@ -1,79 +1,76 @@
 {
   "/crypto-comix/": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99"
-  },
-  "/crypto-comix/__docusaurus/debug": {
-    "component": "component---theme-debugd-45-c28"
+    "component": "c4f5d8e4"
   },
   "/crypto-comix/blog": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "component": "a6aa9e1f",
     "items": [
       {
-        "content": "content---crypto-comix-blogdcd-4d8"
+        "content": "dcd958ba"
       }
     ],
-    "metadata": "metadata---crypto-comix-blog-9-ed-8c0"
+    "metadata": "9ed5146d"
   },
   "/crypto-comix/blog/crypto-comix": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "content": "content---crypto-comix-blog-crypto-comixac-6-727"
+    "component": "ccc49370",
+    "content": "ac625c24"
   },
   "/crypto-comix/help/": {
-    "component": "component---site-src-pages-help-index-js-78-e-dbe"
+    "component": "78e9b454"
   },
   "/crypto-comix/help/DebtLetter/": {
-    "component": "component---site-src-pages-help-debt-letter-index-js-623-a0b"
+    "component": "6237976f"
   },
   "/crypto-comix/help/DepositLetter/": {
-    "component": "component---site-src-pages-help-deposit-letter-index-jsf-4-a-b29"
+    "component": "f4a34dd3"
   },
   "/crypto-comix/page": {
-    "component": "component---site-src-pages-page-jsbaf-7e1"
+    "component": "bafb05f0"
   },
   "/crypto-comix/pages/subpage": {
-    "component": "component---site-src-pages-pages-subpage-jsc-8-c-c8c"
+    "component": "c8ca7d60"
   },
   "/crypto-comix/team": {
-    "component": "component---site-src-pages-team-js-859-9b3"
+    "component": "859cc09f"
   },
   "/crypto-comix/docs": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "docsMetadata": "docsMetadata---crypto-comix-docs-8-cd-d0f"
+    "component": "1be78505",
+    "docsMetadata": "8cd8c8dd"
   },
   "/crypto-comix/docs/": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-b-2-f-9a5"
+    "component": "17896441",
+    "content": "b2f90839"
   },
   "/crypto-comix/docs/Mission": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-mission-575-8ea"
+    "component": "17896441",
+    "content": "575f9ad3"
   },
   "/crypto-comix/docs/doc2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-doc-2-df-3-343"
+    "component": "17896441",
+    "content": "df361e2b"
   },
   "/crypto-comix/docs/doc3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-doc-3616-301"
+    "component": "17896441",
+    "content": "616665f6"
   },
   "/crypto-comix/docs/doc4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-doc-44-b-9-c95"
+    "component": "17896441",
+    "content": "4b91c96a"
   },
   "/crypto-comix/docs/doc5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-doc-5-c-11-fbb"
+    "component": "17896441",
+    "content": "c1130eb1"
   },
   "/crypto-comix/docs/manifesto": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-manifesto-5-af-bd3"
+    "component": "17896441",
+    "content": "5affe1b0"
   },
   "/crypto-comix/docs/mdx": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-mdxce-3-ead"
+    "component": "17896441",
+    "content": "ce3e42ad"
   },
   "/crypto-comix/docs/styles": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---crypto-comix-docs-styles-90-b-092"
+    "component": "17896441",
+    "content": "90b9c8cf"
   }
 }
