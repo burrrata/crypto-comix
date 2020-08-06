@@ -18,7 +18,7 @@ function Page() {
       title={`Juris - Reboot The Legal System.`}
       description="We're building a new legal system and we're thinking like programmers. Help us or get help.<head />">
       <PageHeader>
-        <h2>Page Title</h2>
+        <h2>Build your own CAO!</h2>
       </PageHeader>
       <main>
         <section>

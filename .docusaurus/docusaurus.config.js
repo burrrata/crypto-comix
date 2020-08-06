@@ -24,6 +24,12 @@ export default {
           "position": "right"
         },
         {
+          "to": "page",
+          "activeBasePath": "page/",
+          "label": "Build your own!",
+          "position": "right"
+        },
+        {
           "href": "https://github.com/JurisProject/crypto-comix",
           "label": "💻 GitHub",
           "position": "right"

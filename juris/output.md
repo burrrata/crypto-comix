@@ -1,10 +1,8 @@
-# CAO Constitution Template
-
-Cooperative Autonomous Organization constitution template.
+# Articles of Incorporation
 
 ## Article I - Organization
 
-**Section 1.1 - Status.**  {{NAME}} Cooperative (referred to in this agreement as "{{NAME}}") is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming.
+**Section 1.1 - Status.**  {{NAME}} cooperative (referred to in this agreement as "{{NAME}}") is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming.
 
 {{NAME}} is not intended to be, and shall not be deemed to be, a partnership.
 
