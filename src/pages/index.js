@@ -91,8 +91,8 @@ function Home() {
                       `ml-2`,
                       styles.getStarted,
                     )}
-                    to={"https://discord.gg/259a376"}>
-                    Help us build!
+                    to={useBaseUrl('docs/doc6')}>
+                    Build your own!
                 </Button>
                 </div>
               </div>

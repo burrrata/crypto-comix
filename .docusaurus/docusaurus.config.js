@@ -20,7 +20,7 @@ export default {
         },
         {
           "href": "https://rinkeby.aragon.org/#/cryptocomixxx/",
-          "label": "🐄 CAO",
+          "label": "🐄 CAO Example",
           "position": "right"
         },
         {
@@ -46,7 +46,7 @@ export default {
             },
             {
               "label": "🚀 Deployment Instructions",
-              "to": "docs/"
+              "to": "docs/doc6"
             }
           ]
         },
