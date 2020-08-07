@@ -30,6 +30,11 @@
             "type": "link",
             "label": "Open Questions",
             "href": "/crypto-comix/docs/doc5"
+          },
+          {
+            "type": "link",
+            "label": "Build Your Own CAO",
+            "href": "/crypto-comix/docs/doc6"
           }
         ]
       }
@@ -40,6 +45,7 @@
     "/crypto-comix/docs/doc2": "someSidebar",
     "/crypto-comix/docs/doc3": "someSidebar",
     "/crypto-comix/docs/doc4": "someSidebar",
-    "/crypto-comix/docs/doc5": "someSidebar"
+    "/crypto-comix/docs/doc5": "someSidebar",
+    "/crypto-comix/docs/doc6": "someSidebar"
   }
 }

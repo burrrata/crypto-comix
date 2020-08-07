@@ -1,0 +1,15 @@
+{
+  "id": "doc6",
+  "isDocsHomePage": false,
+  "title": "Build Your Own CAO",
+  "description": "Overview",
+  "source": "@site/docs/doc6.md",
+  "permalink": "/crypto-comix/docs/doc6",
+  "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/doc6.md",
+  "sidebar_label": "Build Your Own CAO",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Open Questions",
+    "permalink": "/crypto-comix/docs/doc5"
+  }
+}

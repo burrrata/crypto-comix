@@ -11,5 +11,9 @@
   "previous": {
     "title": "CAO Demo",
     "permalink": "/crypto-comix/docs/doc4"
+  },
+  "next": {
+    "title": "Build Your Own CAO",
+    "permalink": "/crypto-comix/docs/doc6"
   }
 }

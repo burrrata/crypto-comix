@@ -106,6 +106,12 @@ export default [
   
 },
 {
+  path: '/crypto-comix/docs/doc6',
+  component: ComponentCreator('/crypto-comix/docs/doc6'),
+  exact: true,
+  
+},
+{
   path: '/crypto-comix/docs/manifesto',
   component: ComponentCreator('/crypto-comix/docs/manifesto'),
   exact: true,
