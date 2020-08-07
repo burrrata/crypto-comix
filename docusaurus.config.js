@@ -24,7 +24,7 @@ module.exports = {
         },
         {
           href: 'https://rinkeby.aragon.org/#/cryptocomixxx/',
-          label: '🐄 CAO',
+          label: '🐄 CAO Example',
           position: 'right',
         },
         {
@@ -50,7 +50,7 @@ module.exports = {
             },
             {
               label: '🚀 Deployment Instructions',
-              to: 'docs/',
+              to: 'docs/doc6',
             },
           ],
         },
