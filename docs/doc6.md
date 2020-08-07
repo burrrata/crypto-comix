@@ -43,6 +43,12 @@ Wyoming Secretary of State
 Herschler Building East, Suite 101 122 W 25th Street Cheyenne, WY 82002-0020
 ```
 
+If you need a registered agent the following services may be helpful:
+
+- [https://www.bestwyomingregisteredagent.com/](https://www.bestwyomingregisteredagent.com/)
+- [https://www.incfile.com/form/incorporate-wyoming](https://www.incfile.com/form/incorporate-wyoming)
+- [https://www.wyomingagents.com/](https://www.wyomingagents.com/)
+
 ## Getting help
 
 If you need help deploying your DAO, filling out your articles of incorporation, or registering your entity you can reach out to the [RaidGuild DAOshop](https://daoshop.raidguild.org/) to set up a consultation. They'll be able to answer your questions and help you get started.
