@@ -45,6 +45,8 @@ Herschler Building East, Suite 101 122 W 25th Street Cheyenne, WY 82002-0020
 
 If you need a registered agent the following services may be helpful:
 
+> We are not affiliated with the following sites nor have we reviewed them in any way.
+
 - [https://www.bestwyomingregisteredagent.com/](https://www.bestwyomingregisteredagent.com/)
 - [https://www.incfile.com/form/incorporate-wyoming](https://www.incfile.com/form/incorporate-wyoming)
 - [https://www.wyomingagents.com/](https://www.wyomingagents.com/)
