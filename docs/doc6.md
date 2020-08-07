@@ -36,8 +36,13 @@ The first step is to create the [articles of incorporation](https://github.com/b
 
 Once you've searched and replaced, then export the document as a PDF.
 
-The next step is to register your cooperative in the state of Wyoming. To do this you will need to print your PDF. You'll also need to print out [this form](https://sos.wyo.gov/Forms/Business/NP/NP-ArticlesIncorporation.pdf) and fill it out. Then mail both to `TBD` along with a `$25` check.
+The next step is to register your cooperative in the state of Wyoming. To do this you will need to print your PDF. You'll also need to print out [this form](https://sos.wyo.gov/Forms/Business/NP/NP-ArticlesIncorporation.pdf) and fill it out. Then mail both, along with a `$25` check, to:
+
+```
+Wyoming Secretary of State
+Herschler Building East, Suite 101 122 W 25th Street Cheyenne, WY 82002-0020
+```
 
 ## Getting help
 
-If you need help deploying your DAO, filling out your articles of incorporation, or registering your entity you can reach out to `TBD` to set up a consultation. They'll be able to anser your questions and help you get started.
+If you need help deploying your DAO, filling out your articles of incorporation, or registering your entity you can reach out to the [RaidGuild DAOshop](https://daoshop.raidguild.org/) to set up a consultation. They'll be able to answer your questions and help you get started.
