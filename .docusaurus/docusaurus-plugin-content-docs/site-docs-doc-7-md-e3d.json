@@ -1,0 +1,10 @@
+{
+  "id": "doc7",
+  "isDocsHomePage": false,
+  "title": "Open Questions",
+  "description": "Can cooperatives have permissioned membership, or do they have to be open to the public?",
+  "source": "@site/docs/doc7.md",
+  "permalink": "/crypto-comix/docs/doc7",
+  "editUrl": "https://github.com/burrrata/crypto-comix/edit/master/website/docs/doc7.md",
+  "sidebar_label": "Open Questions"
+}
