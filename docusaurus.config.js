@@ -28,7 +28,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/JurisProject/crypto-comix',
+          href: 'https://github.com/burrrata/crypto-comix',
           label: '💻 GitHub',
           position: 'right',
         },
